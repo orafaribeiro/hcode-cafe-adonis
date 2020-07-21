@@ -1,5 +1,5 @@
 {
-  "name": "adonis-api-app",
+  "name": "adonis_api_app",
   "version": "4.1.0",
   "adonis-version": "4.1.0",
   "description": "Criando uma REST API com AdonisJS e PostgreSQL",
